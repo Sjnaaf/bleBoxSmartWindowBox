@@ -5,7 +5,7 @@
 3. Click the **⋮** (top right) → **Custom repositories**.
 4. Add this repository URL:
 
-   `https://github.com/Schnaaf/homeassistant_blebox_smartWindowBox_integration`
+   `https://github.com/Sjnaaf/bleBoxSmartWindowBox`
 
 5. Choose **Category: Integration**.
 6. Click **Add**.
