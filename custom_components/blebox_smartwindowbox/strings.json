@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "BleBox smartWindowBox",
+        "description": "Enter the IP/hostname of your BleBox smartWindowBox device.",
+        "data": {
+          "host": "Host",
+          "name": "Name (optional)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to device",
+      "unknown": "Unexpected error"
+    }
+  }
+}

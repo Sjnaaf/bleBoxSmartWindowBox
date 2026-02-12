@@ -1,0 +1,31 @@
+favorite:
+  name: Favorite position
+  description: Move the cover to its configured favorite position.
+  target:
+    entity:
+      domain: cover
+
+next_step:
+  name: Next step
+  description: Perform the device "next step" movement.
+  target:
+    entity:
+      domain: cover
+
+set_position:
+  name: Set position
+  description: Move the cover to an arbitrary position (0=open, 100=closed) by moving and stopping at the target.
+  target:
+    entity:
+      domain: cover
+  fields:
+    position:
+      name: Position
+      description: Target position (0=open, 100=closed)
+      required: true
+      selector:
+        number:
+          min: 0
+          max: 100
+          step: 1
+          mode: slider
