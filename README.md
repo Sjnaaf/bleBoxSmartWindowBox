@@ -18,7 +18,7 @@
 
 # BleBox smartWindowBox – Home Assistant Integration
 
-A fully featured **custom Home Assistant integration** for the **BleBox smartWindowBox** (API level 20180604).
+A fully featured **custom Home Assistant integration** for the **BleBox smartWindowBox** ([API level 20180604](https://technical.blebox.eu/openAPI_smartWindowBox/openAPI_smartWindowBox_20180604.html)).
 
 This integration provides:
 
