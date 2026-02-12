@@ -3,6 +3,6 @@
   "content_in_root": false,
   "domain": "blebox_smartwindowbox",
   "render_readme": true,
-  "zip_release": false,
+  "zip_release": true,
   "homeassistant": "2023.9.0"
 }
