@@ -2,7 +2,7 @@
   "domain": "blebox_smartwindowbox",
   "name": "BleBox smartWindowBox",
   "version": "0.0.1",
-  "documentation": "https://github.com/Sjnaaf/bleBoxSmartWindowBox",
+  "documentation": "https://github.com/Sjnaaf/bleBoxSmartWindowBox/blob/main/README.md",
   "requirements": [],
   "codeowners": ["@sjnaaf"],
   "config_flow": true,
