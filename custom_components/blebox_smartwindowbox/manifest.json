@@ -1,7 +1,7 @@
 {
   "domain": "blebox_smartwindowbox",
   "name": "BleBox smartWindowBox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://technical.blebox.eu/openAPI_smartWindowBox/openAPI_smartWindowBox_20180604.html",
   "requirements": [],
   "codeowners": [],
